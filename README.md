@@ -13,3 +13,4 @@ python recurrent_keras.py
 ```
 
 ## Resultados
+Lamentablemente en ubuntu el entrenamiento crasheaba asi que no llegue lejos con los epochs descubri que windows, por alguna razon, no crasehaba las corridas en la titan asi que actualmente lo estoy corriendo ahi. Adjuntare los resultados lo mas pronto posible ademas de algunos avances.
