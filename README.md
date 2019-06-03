@@ -1,1 +1,1 @@
-# TextGenerator--RNN-
+# TextGenerator -RNN-
